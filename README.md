@@ -48,3 +48,8 @@ try {
 }
 
 inv.removeOutdated(10);
+## 📸 Screenshots
+
+### App running:
+![App Screenshot](screenshots/app.png)
+

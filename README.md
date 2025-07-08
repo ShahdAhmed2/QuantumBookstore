@@ -48,7 +48,7 @@ try {
 }
 
 inv.removeOutdated(10);
-```​
+```   
 ## 📸 Screenshots
 
 ### ✅ Running App Output:
